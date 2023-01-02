@@ -2,7 +2,7 @@
 
 # Challenge_20_REACT_Portfolio
 
-This is my attempt to create a portfolio page using React.  It is not finished.
+This is my attempt to create a portfolio page using React and Tailwind.  It is not finished.
 
 # Table of Contents 
 
